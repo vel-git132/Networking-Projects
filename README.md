@@ -107,7 +107,7 @@ Networking-Labs/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/vel-git132/Networking-Projects.git
+git clone https://github.com/vel-git132/Networking-Labs.git
 ```
 
 2. Open the Packet Tracer (.pkt) files.
