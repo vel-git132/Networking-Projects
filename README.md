@@ -2,7 +2,7 @@
 
 This repository contains various networking configuration projects and practical labs. The purpose of this repository is to demonstrate hands-on networking skills, configuration knowledge, and troubleshooting experience.
 
-## 📚 Projects Included
+## 📚 Labs Included
 
 ### 1. DHCP Configuration
 - Configure DHCP server
